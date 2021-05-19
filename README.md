@@ -1,2 +1,3 @@
 # Tindog-Tinder-for-dogs
-This is my Bootstrap practice project! I used this project to make a fully responsive fictional dating site for dogs using HTML, CSS, and Bootstrap.
+This is a fictional dating website for dogs that I made using Bootstrap, HTML and CSS. To run the website, just download the files and open "index.html" using any browser. I have worked only on the front-end part of the website. This website is fully responsive and works perfectly fine on mobile phones, tablets, etc.
+
